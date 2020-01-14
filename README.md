@@ -1,0 +1,1 @@
+# --nome-Giphy-GitHub-A-o-usos-mkramb-giphy-action-v1
